@@ -1,0 +1,19 @@
+{
+  "content": null,
+  "creation": "2026-05-12 00:00:00",
+  "docstatus": 0,
+  "doctype": "Page",
+  "idx": 0,
+  "modified": "2026-05-12 00:00:00",
+  "modified_by": "Administrator",
+  "module": "Insights Side bar",
+  "name": "insights-dashboards",
+  "owner": "Administrator",
+  "page_name": "insights-dashboards",
+  "roles": [],
+  "script": null,
+  "standard": "Yes",
+  "style": null,
+  "system_page": 0,
+  "title": "Insights Dashboards"
+}
